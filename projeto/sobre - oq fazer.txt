@@ -1,0 +1,17 @@
+Filtro daltonico
+-----------------------------
+
+-JS
+(possiveis bibliotecas)
+ - Caman jS
+ -glfx.js
+ -Grafi.js
+ -JIMP
+ -Filtrr2
+ -Processing.js
+
+Tipos de daltonismo
+ -Acromatico
+ -protanotopia
+ -deuteranotopia
+ -tritanotopia
